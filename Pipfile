@@ -9,6 +9,7 @@ ipython3 = "*"
 
 [packages]
 numpy = "*"
+ipython = "*"
 
 [requires]
 python_version = "3.6"
