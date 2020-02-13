@@ -10,6 +10,11 @@ ipython3 = "*"
 [packages]
 numpy = "*"
 ipython = "*"
+pandas = "*"
+matplotlib = "*"
+xlrd = "*"
+xlwt = "*"
+pillow = "*"
 
 [requires]
 python_version = "3.6"
